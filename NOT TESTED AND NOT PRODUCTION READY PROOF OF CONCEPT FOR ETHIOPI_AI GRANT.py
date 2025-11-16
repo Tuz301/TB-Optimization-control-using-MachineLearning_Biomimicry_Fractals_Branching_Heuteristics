@@ -1,6 +1,5 @@
 """
 Production-Ready Ethiopia TB AI Cost-Effectiveness Analysis System
-Senior ML Engineer Implementation - Addresses all architectural deficits
 """
 
 import os
