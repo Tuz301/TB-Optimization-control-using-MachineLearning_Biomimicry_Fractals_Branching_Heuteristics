@@ -13,4 +13,4 @@ The system employs a multi-layered architecture with robust data validation, Bay
 
 Built with Python 3.8+, the system leverages PyMC3 for Bayesian inference, scikit-learn for machine learning, and FastAPI for high-performance web services. It includes comprehensive monitoring, health checks, and production deployment capabilities with proper error handling, logging, and async/await patterns. The implementation features dependency injection, protocol-based interfaces for extensibility, and rigorous validation of both input data and model convergence. Economic parameters are configurable through environment variables, supporting flexible cost-effectiveness thresholds, discount rates, and equity weights tailored to Ethiopia's specific healthcare context.
 
-##STATUS:IN-PROGRESS
+##STATUS:IN-PROGRESS, BUT THIS IS A WORKING PROTOTYPE FOR A PROPOSAL PUT TOGETHER IN 3 WEEKS. 
