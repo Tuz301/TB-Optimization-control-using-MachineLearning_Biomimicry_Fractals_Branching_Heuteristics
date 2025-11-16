@@ -1,4 +1,4 @@
-# TB-Optimization-control-using-MachineLearning_Biomimicry_Fractual_Branching_Heuteristics.py
+# TB-Optimization-control-using-MachineLearning_Biomimicry_Fractals_Branching_Heuteristics.py
 # Ethiopia TB AI Cost-Effectiveness Analysis System
 
 ## Overview
